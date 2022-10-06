@@ -13,7 +13,7 @@
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35">
 
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height="35">
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
   
