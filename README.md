@@ -6,8 +6,7 @@
 
 <img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
 
-  <h2></h2>
-  <h6>FEATURES<br>
+  <h6>FEATURES<br><br>
   •Proactive attitude<br>
   •Curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
@@ -18,7 +17,7 @@
   •Responsible and organized</h6>
   
   <h2></h2>
-  <h6>OBJECTIVES<br>
+  <h6>OBJECTIVES<br><br>
   Develop myself in an environment of opportunities with an excellent climate<br> 
   for work, learning, growth, expansion and challenging projects.<br> 
   Share and learn as a team with great professionals and specialists.</h6>
