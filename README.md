@@ -1,5 +1,5 @@
-<div align="center" width="10" height="10"> 
-  <h3>DAMIAN CANTEROS</h3>
+<div align="center"> 
+  <h2>DAMIAN CANTEROS</h2>
   <h5>FULL STACK DEVELOPER</h5>
 </div> 
 <div align="left" width="396" height="396"> 
