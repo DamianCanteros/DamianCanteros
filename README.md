@@ -1,27 +1,34 @@
 
-<h1 align="center">DAMIAN CANTEROS</h1>
-<h3 align="center">WEB DEVELOPER</h3> 
-<h4>FEATURES
+<h1 align="center">
+  DAMIAN CANTEROS
+</h1>
+<h3 align="center">
+  WEB DEVELOPER
+</h3> 
+<h4>
+  FEATURES
 
-•Proactive attitude
-•Curiosity to investigate
-•Collaborative spirit, creative,
-entrepreneur
-•Flexible to changes
-• Desire to grow and have a career
-professional.
-•Ability to accept challenges
-•Initiative for self-development
-•Responsible and organized
+  •Proactive attitude
+  •Curiosity to investigate
+  •Collaborative spirit, creative,
+  entrepreneur
+  •Flexible to changes
+  • Desire to grow and have a career
+  professional.
+  •Ability to accept challenges
+  •Initiative for self-development
+  •Responsible and organized
 </h4>
-<h4>OBJECTIVES
+<h4>
+  OBJECTIVES
 
-Develop myself in an environment of opportunities with an excellent climate for work, learning, 
-growth, expansion and challenging projects.
-Share and learn as a team with great professionals and specialists.
+  Develop myself in an environment of opportunities with an excellent climate for work, learning, 
+  growth, expansion and challenging projects.
+  Share and learn as a team with great professionals and specialists.
 </h4>
-
-  <h4>SKILLS </h4>
+<h4>
+  SKILLS 
+</h4>
   <div align="left">
     <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
 
