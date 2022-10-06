@@ -1,8 +1,8 @@
 <h1 align="center">DAMIAN CANTEROS</h1>
-<h4 align="center">FULL STACK DEVELOPER</h4>
+<h5 align="center">FULL STACK DEVELOPER</h5>
 <div align="left" width="360" height="360"> 
 
-<img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="360" height="396">
+<img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="360" height="360">
 
   <h5>FEATURES</h5>
 
