@@ -6,7 +6,7 @@
   <h6>•Proactive attitude<br>
   •Curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
-  •Flexible to changes</h6>
+  •Flexible to changes<br>
   •Desire to grow and have a career professional.<br> 
   •Ability to accept challenges<br> 
   •Initiative for self-development<br> 
