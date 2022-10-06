@@ -1,4 +1,4 @@
-<h2 align="center">DAMIAN CANTEROS</h2>
+<h3 align="center">DAMIAN CANTEROS</h3>
 <h5 align="center">FULL STACK DEVELOPER</h5>
 <div align="left" width="396" height="396"> 
 
