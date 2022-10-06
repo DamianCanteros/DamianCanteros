@@ -1,6 +1,4 @@
-  ![Recurso 1-100](https://user-images.githubusercontent.com/109114128/194398200-b55e2e9c-6f68-42d1-84ee-984807ed836e.jpg)
-  
-  
+ 
   <h4>FEATURES</h4>
 
   <h6>•Proactive attitude<br>
@@ -37,4 +35,3 @@
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
 </div>
-
