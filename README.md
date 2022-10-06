@@ -1,11 +1,13 @@
-<h3 align="center">DAMIAN CANTEROS</h3>
-<h5 align="center">FULL STACK DEVELOPER</h5>
+<div align="center" width="10" height="10"> 
+  <h3>DAMIAN CANTEROS</h3>
+  <h5>FULL STACK DEVELOPER</h5>
+</div> 
 <div align="left" width="396" height="396"> 
 
-<img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
+<img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="480" height="480">
 
-  <h4>FEATURES</h4>
-
+  <h6>FEATURES</h6>
+  <h2></h2>
   <h6>•Proactive attitude<br>
   •Curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
@@ -15,12 +17,14 @@
   •Initiative for self-development<br> 
   •Responsible and organized</h6>
   
-  <h4>OBJECTIVES</h4>
+  <h6>OBJECTIVES</h6>
+  <h2></h2>
   <h6>Develop myself in an environment of opportunities with an excellent climate<br> 
   for work, learning, growth, expansion and challenging projects.<br> 
   Share and learn as a team with great professionals and specialists.</h6>
   
-  <h4>SKILLS</h4>
+  <h6>SKILLS</h6>
+  <h2></h2>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
