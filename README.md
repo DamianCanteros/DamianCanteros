@@ -1,10 +1,10 @@
 <h1 align="center">DAMIAN CANTEROS</h1>
 <h4 align="center">FULL STACK DEVELOPER</h4>
-<div align="left" width="296" height="296"> 
- 
-  <img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="420" height="420">
- 
-  <h4>FEATURES</h4>
+<div align="left" width="360" height="360"> 
+
+<img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="360" height="396">
+
+  <h5>FEATURES</h5>
 
   <h6>•Proactive attitude<br>
   •Curiosity to investigate<br> 
@@ -15,12 +15,12 @@
   •Initiative for self-development<br> 
   •Responsible and organized</h6>
   
-  <h4>OBJECTIVES</h4>
+  <h5>OBJECTIVES</h5>
   <h6>Develop myself in an environment of opportunities with an excellent climate<br> 
   for work, learning, growth, expansion and challenging projects.<br> 
   Share and learn as a team with great professionals and specialists.</h6>
   
-  <h4>SKILLS</h4>
+  <h5>SKILLS</h5>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
