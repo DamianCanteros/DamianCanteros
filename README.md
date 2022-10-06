@@ -1,13 +1,12 @@
 <div align="center">
-  DAMIAN CANTEROS
-  WEB DEVELOPER 
+  <h1>DAMIAN CANTEROS</h1>
+  <h2>WEB DEVELOPER</h2> 
 </div>
 
 <div align="left">
   <div align="left">
     <div align="left">
-
-      FEATURES
+      <h3>FEATURES
 
       •Proactive attitude
       •Curiosity to investigate
@@ -21,17 +20,20 @@
       •Ability to accept challenges
       •Initiative for self-development
       •Responsible and organized
+      </h3>
     </div>
   </div>
 
   <div align="left">
-    OBJECTIVES
+    <h3>OBJECTIVES
 
-    Develop myself in an environment of opportunities with an excellent climate for work, learning, growth, expansion and challenging projects.
+    Develop myself in an environment of opportunities with an excellent climate for work, learning, 
+    growth, expansion and challenging projects.
     Share and learn as a team with great professionals and specialists.
+    </h3>
   </div>
 
-  SKILLS
+  <h3>SKILLS </h3>
   <div align="left">
     <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
 
@@ -54,5 +56,5 @@
 </div>
 
 <div align="left">
-  ![Recurso 3](https://user-images.githubusercontent.com/109114128/194392430-c5392248-12ef-4660-8790-0a3889efc91c.png)
+  <img src= "https://user-images.githubusercontent.com/109114128/194392430-c5392248-12ef-4660-8790-0a3889efc91c.png" width="296">
 </div>
