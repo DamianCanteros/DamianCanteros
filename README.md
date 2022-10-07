@@ -1,12 +1,12 @@
 <div align="center"> 
   <h2>DAMIAN CANTEROS</h2>
-  <h6>FULL STACK DEVELOPER</h6>
+  <h5>FULL STACK DEVELOPER</h5>
 </div> 
 <div align="left" width="396" height="396"> 
 
 <img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
 
-  <h7>FEATURES<br><br>
+  <h6>FEATURES<br><br>
   •Proactive attitude<br>
   •Curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
@@ -14,16 +14,16 @@
   •Desire to grow and have a career professional.<br> 
   •Ability to accept challenges<br> 
   •Initiative for self-development<br> 
-  •Responsible and organized</h7>
+  •Responsible and organized</h6>
   
   <h2></h2>
-  <h7>OBJECTIVES<br><br>
+  <h6>OBJECTIVES<br><br>
   Develop myself in an environment of opportunities with an excellent climate<br> 
   for work, learning, growth, expansion and challenging projects.<br> 
-  Share and learn as a team with great professionals and specialists.</h7>
+  Share and learn as a team with great professionals and specialists.</h6>
   
   <h2></h2>
-  <h7>SKILLS</h7>
+  <h6>SKILLS</h6>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" height="30">
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30">
