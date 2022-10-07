@@ -1,7 +1,8 @@
-<div align="left" width="396" height="396"> 
+<div align="right" width="396" height="396"> 
 
-<img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
+<img src= "https://user-images.githubusercontent.com/109114128/194665075-0bf1e80e-abcf-4303-ac53-019b4e4b25a4.png" align="left" width="396" height="396">
 
+<div align="left"> 
   <h6>FEATURES<br><br>
   •Proactive attitude, curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
@@ -35,5 +36,5 @@
  <img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
-
+</div>
 </div>
