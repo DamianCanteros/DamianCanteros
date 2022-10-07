@@ -1,6 +1,6 @@
 <div align="left" width="396" height="396"> 
 
-<img src= "https://user-images.githubusercontent.com/109114128/194666844-83386407-79ba-4697-b959-bb45339884c7.png" align="right" width="396" height="396">
+<img src= "https://user-images.githubusercontent.com/109114128/194670298-19057fdf-bad1-4d56-a77a-b2b5d6958f12.png" align="right" width="396" height="396">
 
   <h6>FEATURES<br><br>
   •Proactive attitude, curiosity to investigate<br> 
