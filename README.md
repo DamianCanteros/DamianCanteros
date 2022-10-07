@@ -16,8 +16,8 @@
   
   <h2></h2>
   <h6>OBJECTIVES<br><br>
-  Develop myself in an environment of opportunities with an excellent climate<br> 
-  for work, learning, growth, expansion and challenging projects.<br> 
+  Develop myself in an environment of opportunities with an excellent climate
+  for work, learning, growth, expansion and challenging projects.
   Share and learn as a team with great professionals and specialists.</h6>
   
   <h2></h2>
