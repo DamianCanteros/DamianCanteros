@@ -1,7 +1,4 @@
-<div align="center"> 
-  <h2>DAMIAN CANTEROS</h2>
-  <h5>FULL STACK DEVELOPER</h5>
-</div> 
+<h2 align="center">DAMIAN CANTEROS</h2>
 <div align="left" width="396" height="396"> 
 
 <img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
