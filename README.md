@@ -23,15 +23,15 @@
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30">
 
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="25" height="25">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  width="30" height="30">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="25" height="25">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30" height="30">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  width="30" height="30">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="25" height="25">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  width="30" height="30">
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="30" height="30">
 
