@@ -19,7 +19,7 @@
   
   <h2></h2>
   <h6>SKILLS</h6>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="45" height="45">
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="35" height="35">
 
