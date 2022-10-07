@@ -1,12 +1,12 @@
 <div align="center"> 
   <h2>DAMIAN CANTEROS</h2>
-  <h5>FULL STACK DEVELOPER</h5>
+  <h6>FULL STACK DEVELOPER</h6>
 </div> 
 <div align="left" width="396" height="396"> 
 
 <img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
 
-  <h6>FEATURES<br><br>
+  <h7>FEATURES<br><br>
   •Proactive attitude<br>
   •Curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
@@ -14,32 +14,32 @@
   •Desire to grow and have a career professional.<br> 
   •Ability to accept challenges<br> 
   •Initiative for self-development<br> 
-  •Responsible and organized</h6>
+  •Responsible and organized</h7>
   
   <h2></h2>
-  <h6>OBJECTIVES<br><br>
+  <h7>OBJECTIVES<br><br>
   Develop myself in an environment of opportunities with an excellent climate<br> 
   for work, learning, growth, expansion and challenging projects.<br> 
-  Share and learn as a team with great professionals and specialists.</h6>
+  Share and learn as a team with great professionals and specialists.</h7>
   
   <h2></h2>
-  <h6>SKILLS</h6>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
+  <h7>SKILLS</h7>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30" height="30">
 
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30">
 
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="35" height="35">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="25" height="25">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="25" height="25">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height="35">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="25" height="25">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="30" height="30">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30">
 
 </div>
