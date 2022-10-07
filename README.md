@@ -7,12 +7,10 @@
 <img src= "https://user-images.githubusercontent.com/109114128/194421366-81e9dfda-c1bb-4cf1-88ab-1ca323003d3f.png" align="right" width="396" height="396">
 
   <h6>FEATURES<br><br>
-  •Proactive attitude<br>
-  •Curiosity to investigate<br> 
+  •Proactive attitude, curiosity to investigate<br> 
   •Collaborative spirit, creative, entrepreneur<br> 
-  •Flexible to changes<br>
+  •Flexible to changes, ability to accept challenges<br>
   •Desire to grow and have a career professional.<br> 
-  •Ability to accept challenges<br> 
   •Initiative for self-development<br> 
   •Responsible and organized</h6>
   
