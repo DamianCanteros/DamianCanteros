@@ -26,13 +26,11 @@
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  width="30" height="30">
 
- <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="30" height="30">
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="30" height="30">
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  width="30" height="30">
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  width="30" height="30">
-
- <img src= "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
 
  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
 </div>
