@@ -9,7 +9,7 @@ Me especializo en construir interfaces limpias, accesibles y escalables con Reac
 ---
 
 ## 🔭 Resumen rápido
-Desarrollo aplicaciones web productivas para clientes y productos propios: páginas estáticas, plataformas de cursos y aplicaciones SaaS complejas (gestión clínica). Trabajo con equipos multidisciplinares, poniendo foco en calidad, rendimiento y mantenibilidad.
+Desarrollo aplicaciones web productivas para clientes y productos propios: páginas estáticas, plataformas de cursos y aplicaciones SaaS complejas. Trabajo con equipos multidisciplinares, poniendo foco en calidad, rendimiento y mantenibilidad.
 
 ---
 
@@ -23,21 +23,18 @@ Desarrollo aplicaciones web productivas para clientes y productos propios: pági
 - **CEAL Hipoacusia** — Plataforma de cursos / contenidos para una organización dedicada a la hipoacusia.  
   🔗 https://www.cealhipoacusia.com/
 
-> Si querés, preparo mini-case studies (qué problemas resolviste, tech, métricas) para cada uno y los agrego al README.
-
 ---
 
 ## 🛠 Tecnologías & herramientas
 (estas son las que uso habitualmente en los proyectos mencionados)
-- **Lenguajes / Frameworks:** React (Hooks), JavaScript / TypeScript  
+- **Lenguajes / Frameworks:** React (Hooks), JavaScript   
 - **UI / Styling:** Tailwind CSS, componentes reutilizables, diseño responsivo  
 - **State / Data:** Context API, patterns para separación de estado (y experiencia con React Query)  
 - **UX / Interactions:** DnD Kit, accesibilidad (a11y), responsive-first  
 - **Build / Deploy:** Vercel / Docker / Netlify (configuraciones de CI)  
-- **Complementos:** lucide-react (icons), herramientas de testing (Jest / RTL)  
+- **Complementos:** lucide-react (icons) 
 - **Otras:** localStorage / themes dinámicos, edición WYSIWYG, creación de componentes (carousel, video, botón WhatsApp), manejo de imágenes/medios
 
-_iconos:_
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="36" height="36" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" />
@@ -60,24 +57,11 @@ _iconos:_
 Seguir desarrollándome en roles frontend donde pueda:
 1. Resolver problemas reales en producto (UX y performance).  
 2. Escalar componentes y sistemas de diseño.  
-3. Mentorizar y colaborar para elevar la calidad del equipo.
-
----
-
-## 📂 ¿Querés ver código?
-Puedo preparar un `portfolio` o un `readme` por proyecto con:
-- arquitectura del frontend, decisiones técnicas y screenshots,  
-- instrucciones para levantar localmente (scripts `npm`/`pnpm`),  
-- endpoints clave y ejemplos de uso (si corresponde).
-
-Si preferís, actualizo tu CV con foco en ofertas **Semi-senior / Senior React Frontend** y lo adapto para la postulación.
+3. Compartir y colaborar para elevar la calidad del equipo.
 
 ---
 
 ## 📫 Contacto
 - Email: **dellacortedamian@gmail.com**  
-- Portfolio / App: https://psynaps.app  
-- Si querés, te preparo un CV orientado a la vacante y una carta breve de postulación.
-
 </div>
 
