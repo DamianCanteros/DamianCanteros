@@ -2,13 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/109114128/194670298-19057fdf-bad1-4d56-a77a-b2b5d6958f12.png" align="right" width="280" />
 
-Damián Canteros Frontend Engineer (React)
+# Damián Canteros Frontend Engineer (React)
 **Frontend Engineer / React Developer** · Semi-senior / Senior  
 Me especializo en construir interfaces limpias, accesibles y escalables con React, sistemas de diseño y arquitecturas frontend modernas. Disfruto diseñar experiencias que funcionan bien en móvil y escritorio, y crear herramientas internas (editors / builders) para acelerar equipos.
 
 ---
 
-🔭 Resumen rápido
+## 🔭 Resumen rápido
 Desarrollo aplicaciones web productivas para clientes y productos propios: páginas estáticas, plataformas de cursos y aplicaciones SaaS complejas. Trabajo con equipos multidisciplinares, poniendo foco en calidad, rendimiento y mantenibilidad.
 
 ---
