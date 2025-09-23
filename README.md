@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/109114128/194670298-19057fdf-bad1-4d56-a77a-b2b5d6958f12.png" align="right" width="280" />
 
 # Damián Canteros Frontend Engineer (React)
-**Frontend Engineer / React Developer** · Semi-senior / Senior  
+**Frontend Engineer / React Developer** ·  
 Me especializo en construir interfaces limpias, accesibles y escalables con React, sistemas de diseño y arquitecturas frontend modernas. Disfruto diseñar experiencias que funcionan bien en móvil y escritorio, y crear herramientas internas (editors / builders) para acelerar equipos.
 
 ---
@@ -62,6 +62,8 @@ Seguir desarrollándome en roles frontend donde pueda:
 ---
 
 ## 📫 Contacto
-- Email: **dellacortedamian@gmail.com**  
+- Email: dellacortedamian@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/damian-canteros/  
+- GitHub: https://github.com/damian-canteros  
 </div>
 
